@@ -1,0 +1,46 @@
+nav{
+    text-decoration: none;
+    background-size: auto;
+    text-align: center;
+    background-color: darkgray;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding: 10px;
+
+}
+
+a{
+text-decoration: none;
+color: #fff;
+margin-right: 10px;
+
+}
+footer{
+    text-decoration: none;
+    text-align: center;
+    background-size: auto;
+    background-color: darkgray;
+    margin-right: 70px;
+    margin-left: 70px;
+padding: 5px;
+}
+.basico{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 30px;
+    
+}
+h2{
+    background-color: darkgrey;
+    margin-right: 70px;
+    margin-left: 70px;
+padding: 5px;
+}
+article{
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: var(100px);
+
+}
